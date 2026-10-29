@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "crucial-tan-warbler",
+    "slug": "crucial-tan-warbler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.crucialtanwarbler" },
+    "scheme": "crucialtanwarbler"
+  }
+}
